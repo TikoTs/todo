@@ -1,11 +1,13 @@
 # Todo App
 
-This is a simple Todo App built with React where you can add, update, and delete tasks.
+This is a simple Todo App built with React where you can add, update, and delete tasks. It supports both dark and light modes and is fully responsive.
 
 ## Features:
 - Add new tasks
 - Edit existing tasks
 - Delete tasks
+- Dark and light mode toggle
+- Fully responsive design
 
 ## Available Scripts
 
